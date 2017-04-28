@@ -1,0 +1,50 @@
+.if-section {
+  background-color: black;
+  height: 590px;
+  width: 1000px;
+}
+
+#if {
+  height: 600px;
+}
+
+#adobe {
+  height: 50px;
+  position: relative;
+  float: right;
+}
+
+.slogan {
+  color: white;
+  font-size: 1em;
+  position: relative;
+  width: 195px;
+  top: -300px;
+  left: 300px;
+}
+
+.footer {
+  width: 380px;
+}
+
+h1 {
+  width: 1000px;
+  color: red;
+  position: relative;
+  top: 30px;
+}
+
+h2 {
+  color: lightgray;
+  width: 400px;
+  text-align: right;
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+}
